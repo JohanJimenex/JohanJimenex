@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohanJimenex
-- 👀 I’m interested in Frontend Web Dev. and Videogame dev.
+- 👀 I’m interested in Frontend Web, Videogame and Flutter development.
 - 🌱 I’m currently working with Angular
 
 <!---
