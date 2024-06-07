@@ -11,11 +11,11 @@ Actualmente estoy trabajando con Angular, además he desarrollado algunos juegos
 - 📫 Cómo contactarme: [johan.jimenez.23@gmail.com](mailto:johan.jimenez.23@gmail.com)
 - 🌐 LinkedIn: [Johan Jiménez](https://www.linkedin.com/in/JohanJimenex/)
 
-## Mis estadísticas de GitHub 📊
+## Estadísticas 📊
 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanJimenex&show_icons=true)
 
-## Lenguajes más usados 📚
+## Lenguajes 📚
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanJimenex&layout=compact)
 
