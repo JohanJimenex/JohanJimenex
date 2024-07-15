@@ -1,4 +1,4 @@
-# Hola, soy @JohanJimenex 👋
+# @JohanJimenex 👋
 
 ## Sobre mí 🚀
 
