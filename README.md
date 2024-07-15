@@ -8,7 +8,7 @@ Actualmente estoy trabajando con Angular, además he desarrollado algunos juegos
 - 💬 Pregúntame sobre [Desarrollo Web, Video juegos y Mobile]
 - 🛍️ AppStore [Link](https://apps.apple.com/do/developer/johan-jimenez/id1503858642)
 - 📱 PlayStore [Link](https://play.google.com/store/apps/dev?id=6933809884096731950&hl=en_NZ)
-- 📫 Cómo contactarme: [johan.jimenez.23@gmail.com](mailto:johan.jimenez.23@gmail.com)
+- 📫 email: [johan.jimenez.23@gmail.com](mailto:johan.jimenez.23@gmail.com)
 - 🌐 LinkedIn: [Johan Jiménez](https://www.linkedin.com/in/JohanJimenex/)
 
 ## Estadísticas 📊
