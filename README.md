@@ -4,7 +4,7 @@
 
 Actualmente estoy trabajando con Angular, además he desarrollado algunos juegos moviles en Unity con C# y he hecho una que otras aplicaciones en Flutter.
 
-- 🔭 Actualmente estoy trabajando en Nolan's Galaxy [Link de descarga](https://johanjimenex.github.io/NolansGalaxyWeb/)
+- 🔭 Mi juego mas reciente: Nolan's Galaxy [Link de descarga](https://johanjimenex.github.io/NolansGalaxyWeb/)
 - 💬 Pregúntame sobre [Desarrollo Web, Video juegos y Mobile]
 - 🛍️ AppStore [Link](https://apps.apple.com/do/developer/johan-jimenez/id1503858642)
 - 📱 PlayStore [Link](https://play.google.com/store/apps/dev?id=6933809884096731950&hl=en_NZ)
