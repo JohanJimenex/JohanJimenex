@@ -12,16 +12,6 @@ Actualmente estoy trabajando con Angular, además he desarrollado algunos juegos
 - 🌐 LinkedIn: [Johan Jiménez](https://www.linkedin.com/in/JohanJimenex/)
 
 ## Estadísticas 📊
-
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JohanJimenex&show_icons=true)
-
-## Lenguajes 📚
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanJimenex&layout=compact)
-
-
-
-<!---
-JohanJimenex/JohanJimenex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Resumen de perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohanJimenex&theme=dark)
+ 
+ 
